@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
             content="A site for my programming portfolio"
           />
           <meta charSet="utf-8" />
-          <meta name="robots" content="noindex, nofollow" />
+          <meta name="robots" content="noIndex, nofollow" />
           <meta name="viewport" content="width=device-width" />
           <link
             rel="stylesheet"
@@ -18,7 +18,7 @@ export default class MyDocument extends Document {
           />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
           <link
             href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&display=swap"
             rel="stylesheet"
