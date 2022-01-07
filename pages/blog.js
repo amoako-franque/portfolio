@@ -12,10 +12,10 @@ const PostLink = ({ slug, title }) => (
 const Blog =() => (
   <Layout title="My Blog">
     <ul>
-      <PostLink slug="react-post" title="React Post" />
-      <PostLink slug="python-post" title="Python Post" />
-      <PostLink slug="health-post" title="Health Post" />
-    </ul>
+      <h3>What I am Good at ...</h3>
+      <PostLink slug="mern" title="MERN STACK" />
+      <PostLink slug="python" title="Python " />
+      <PostLink slug="Health" title="Health" />
   </Layout>
 );
 
