@@ -16,6 +16,7 @@ const Blog =() => (
       <PostLink slug="mern" title="MERN STACK" />
       <PostLink slug="python" title="Python " />
       <PostLink slug="Health" title="Health" />
+      </ul>
   </Layout>
 );
 
